@@ -1,3 +1,4 @@
 # Conflict-Resolution
-## This is a subheading created locally
-
+<<<<<<< HEAD
+## Updated the Remote Readme file on Github
+>
